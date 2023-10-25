@@ -1,4 +1,8 @@
-### Hi there 👋
+### Fabien Ducret
+
+I'm a software engineer who love learning how to craft clean and useful solutions.
+
+🔭 I’m currently working on nodeJS with TypeScript since few years. 
 
 <!--
 **fabienducret/fabienducret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
