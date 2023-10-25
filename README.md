@@ -10,9 +10,10 @@ I’m currently working on nodeJS with TypeScript since few years but I always w
 
 ##### Repositories 🧑‍💻
 
-- [search-engine](https://github.com/fabienducret/search-engine)
-- [go-micro ](https://github.com/fabienducret/go-micro)
-- [go-concurrency](https://github.com/fabienducret/go-concurrency)
+- [search-engine](https://github.com/fabienducret/search-engine): project that aggregates the result of several search engines
+- [go-micro ](https://github.com/fabienducret/go-micro): project with microservices and RPC in Go
+- [go-concurrency](https://github.com/fabienducret/go-concurrency): small experimentation with concurrency in Go
+- [decorator-go](https://github.com/fabienducret/decorator-go): decorator pattern application in Go
 
 ##### Books reading 📚
 - [100 Go Mistakes and How to Avoid Them](https://www.amazon.fr/gp/product/1617299596/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
