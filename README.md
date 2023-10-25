@@ -33,6 +33,20 @@ I’m currently working on nodeJS with TypeScript since few years but I always w
 - [Mastering JavaScript Functional Programming](https://www.amazon.fr/gp/product/1804610135/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 - [Grokking Simplicity: Taming Complex Software With Functional Thinking](https://www.amazon.fr/gp/product/1617296201/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 
+### Object Oriented Programming
+
+#### Repositories 🧑‍💻
+- [hide-algorithm](https://github.com/fabienducret/hide-algorithm): project that applies principles from Elegant Objects books
+
+#### Books reading 📚
+- [Elegant Objects vol 1](https://www.amazon.fr/Elegant-Objects-Yegor-Bugayenko/dp/1519166915/ref=pd_bxgy_img_sccl_1/257-0994244-3743061)
+- [Elegant Objects vol 2](https://www.amazon.fr/gp/product/1534908307/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+
+### Unit tests
+
+#### Books reading 📚
+- [Unit Testing](https://www.amazon.fr/gp/product/1617296279/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+
 <!--
 **fabienducret/fabienducret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
