@@ -10,6 +10,8 @@ I’m currently working on nodeJS with TypeScript since few years but I always w
 
 #### Functional Programming
 
+[functional-ts](https://github.com/fabienducret/functional-ts): small project in TypeScript based on ports/adapters pattern with functional programming principles.
+
 <!--
 **fabienducret/fabienducret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
