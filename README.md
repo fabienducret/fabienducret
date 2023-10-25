@@ -8,6 +8,15 @@ I’m currently working on nodeJS with TypeScript since few years but I always w
 
 #### Go
 
+##### Repositories 🧑‍💻
+
+##### Books reading 📚
+- [100 Go Mistakes and How to Avoid Them](https://www.amazon.fr/gp/product/1617299596/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
+- [Shipping Go](https://www.amazon.fr/gp/product/1617299502/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+- [Learning Go](https://www.amazon.fr/gp/product/1492077216/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
+- [Writing An Interpreter In Go](https://www.amazon.fr/gp/product/3982016118/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
+- [Hands-On Dependency Injection in Go](https://www.amazon.fr/gp/product/1789132762/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
+
 #### Functional Programming
 
 ##### Repositories 🧑‍💻
