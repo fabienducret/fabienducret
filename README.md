@@ -15,7 +15,7 @@ I’m currently working on nodeJS with TypeScript since few years but I always w
 - [go-concurrency](https://github.com/fabienducret/go-concurrency): small experimentation with concurrency in Go
 - [decorator-go](https://github.com/fabienducret/decorator-go): decorator pattern application in Go
 
-#### Books reading 📚
+#### Books read for this topic 📚
 - [100 Go Mistakes and How to Avoid Them](https://www.amazon.fr/gp/product/1617299596/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
 - [Shipping Go](https://www.amazon.fr/gp/product/1617299502/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 - [Learning Go](https://www.amazon.fr/gp/product/1492077216/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
@@ -28,16 +28,24 @@ I’m currently working on nodeJS with TypeScript since few years but I always w
 
 - [functional-ports-adapters](https://github.com/fabienducret/functional-ports-adapters): small project in TypeScript based on ports/adapters pattern with functional programming principles.
 
-#### Books reading 📚
+#### Books read for this topic 📚
 - [Domain Modeling Made Functional](https://www.amazon.fr/gp/product/1680502549/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 - [Mastering JavaScript Functional Programming](https://www.amazon.fr/gp/product/1804610135/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 - [Grokking Simplicity: Taming Complex Software With Functional Thinking](https://www.amazon.fr/gp/product/1617296201/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 
 ### TDD and testing
 
-#### Books reading 📚
+#### Books read for this topic 📚
 - [Modern C++ Programming with Test-Driven Development](https://www.amazon.fr/gp/product/1937785483/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
 - [Unit Testing](https://www.amazon.fr/gp/product/1617296279/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+
+### Object design
+
+#### Books read for this topic 📚
+- [Dependency Injection Principles, practices and patterns](https://www.amazon.fr/dp/161729473X?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+- [Modern Software Engineering](https://www.amazon.fr/gp/product/0137314914/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+- [A Philosophy of Software Design](https://www.amazon.fr/gp/product/173210221X/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+- [Elegant Objects vol 1 et 2](https://www.amazon.fr/gp/product/1534908307/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
 <!--
 **fabienducret/fabienducret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
