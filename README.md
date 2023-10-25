@@ -4,13 +4,20 @@ I'm a software engineer who love learning how to craft clean and useful solution
 
 I’m currently working on nodeJS with TypeScript since few years but I always want to learn new things. 
 
-### My current learning
+### My current learning 🧠
 
 #### Go
 
 #### Functional Programming
 
+##### Repositories 🧑‍💻
+
 [functional-ts](https://github.com/fabienducret/functional-ts): small project in TypeScript based on ports/adapters pattern with functional programming principles.
+
+##### Books reading 📚
+- [Domain Modeling Made Functional](https://www.amazon.fr/gp/product/1680502549/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+- [Mastering JavaScript Functional Programming](https://www.amazon.fr/gp/product/1804610135/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+- [Grokking Simplicity: Taming Complex Software With Functional Thinking](https://www.amazon.fr/gp/product/1617296201/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 
 <!--
 **fabienducret/fabienducret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
