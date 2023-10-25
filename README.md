@@ -1,8 +1,14 @@
-### Fabien Ducret
+## Fabien Ducret
 
 I'm a software engineer who love learning how to craft clean and useful solutions.
 
-🔭 I’m currently working on nodeJS with TypeScript since few years. 
+I’m currently working on nodeJS with TypeScript since few years but I always want to learn new things. 
+
+### My current learning
+
+#### Go
+
+#### Functional Programming
 
 <!--
 **fabienducret/fabienducret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
