@@ -27,6 +27,7 @@ I’m currently working on nodeJS with TypeScript since few years but I always w
 #### Repositories 🧑‍💻
 
 - [functional-ports-adapters](https://github.com/fabienducret/functional-ports-adapters): project in TypeScript based on ports and adapters pattern with functional programming principles.
+- [hello-rust](https://github.com/fabienducret/hello-rust): small project in Rust with functional principles
 
 #### Books read for this topic 📚
 - [Domain Modeling Made Functional](https://www.amazon.fr/gp/product/1680502549/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
