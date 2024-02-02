@@ -33,6 +33,7 @@ I’m currently working on nodeJS with TypeScript since few years but I always w
 - [Domain Modeling Made Functional](https://www.amazon.fr/gp/product/1680502549/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 - [Mastering JavaScript Functional Programming](https://www.amazon.fr/gp/product/1804610135/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 - [Grokking Simplicity: Taming Complex Software With Functional Thinking](https://www.amazon.fr/gp/product/1617296201/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+- [Functional and Concurrent Programming](https://www.amazon.fr/Functional-Concurrent-Programming-Concepts-Features-ebook/dp/B0B8S2QNM9)
 
 ### TDD and testing
 
