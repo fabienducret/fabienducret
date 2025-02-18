@@ -6,6 +6,17 @@ I’m currently working on nodeJS with TypeScript since few years but I always w
 
 ## My current learning 🧠
 
+### C#
+
+#### Repositories 🧑‍💻
+
+- [hello-cs](https://github.com/fabienducret/hello-cs): small project to implement DIP, Unit Testing and CI/CD with github actions
+
+#### Books read for this topic 📚
+
+- [Concurrency in C# Cookbook](https://www.amazon.fr/dp/149205450X)
+- [C# in Depth: Fourth Edition](https://www.amazon.fr/dp/1617294535)
+
 ### Go
 
 #### Repositories 🧑‍💻
